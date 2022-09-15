@@ -1,4 +1,4 @@
-## dxvk-async
+## dxvk-async for guild wars
 A Fork of https://github.com/Sporif/dxvk-async for use with Guild wars 1
 
 This fork contains Specific patches and configurations specific to Guild wars 1
