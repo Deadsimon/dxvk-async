@@ -15,7 +15,7 @@ Compatible with:
 * GW Armory 
 * GW Launcher (No uMod or TPF support)
 
-
+![image](https://user-images.githubusercontent.com/69606814/190868393-986092db-6287-4fcd-8b48-cee48e17bb13.png)
 ## Instructions:
 
 1. Copy d3d9.dll and DXGI.dll to your guild wars installation folder.
@@ -28,3 +28,4 @@ Credits
 * https://github.com/doitsujin/dxvk For creating DXVK
 * https://github.com/Deadsimon/dxvk-async
 * https://www.reddit.com/user/simonhazel00
+
