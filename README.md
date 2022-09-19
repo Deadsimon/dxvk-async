@@ -24,7 +24,11 @@ Compatible with:
 * Intel : Bad
 
 Please note, i have tested DXVK on a intel UHD 630 with the latest driver 30.101. however vulkan support is limited / Train wreck.
-Intel Graphics 4400 and below don't support Vulkan. feel free to try other Intel GPUs however there is a good chance it wont work
+Intel Graphics 4400 and below don't support Vulkan. feel free to try other Intel GPUs however there is a good chance it wont work.
+
+My experiance on drivers 25 through 30.101:
+![image](https://user-images.githubusercontent.com/69606814/191081676-7eb1e69e-bbb0-473d-8415-532bcb1d1e79.png)
+
 
 ## Instructions:
 
