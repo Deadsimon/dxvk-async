@@ -16,8 +16,15 @@ Compatible with:
 * GW Launcher (No uMod or TPF support)
 
 ![image](https://user-images.githubusercontent.com/69606814/191030227-76c6d666-4f07-4ff6-95d4-875a2405c7dc.png)
-![image](https://user-images.githubusercontent.com/69606814/190917152-de836a28-5d10-4460-903d-e3e20b6ee7fb.png)
+![image](https://user-images.githubusercontent.com/69606814/190917152-de836a28-5d10-4460-903d-e3e20b6ee7fb.png]
 
+## Gpu Compatability status
+* Amd : great
+* Nvidia : great
+* Intel : Bad
+
+Please note, i have tested DXVK on a intel UHD 630 with the latest driver 30.101. however vulkan support is limited / Train wreck.
+Intel Graphics 4400 and below don't support Vulkan. feel free to try other Intel GPUs however there is a good chance it wont work
 
 ## Instructions:
 
