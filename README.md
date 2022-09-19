@@ -15,7 +15,7 @@ Compatible with:
 * GW Armory 
 * GW Launcher (No uMod or TPF support)
 
-![image](https://user-images.githubusercontent.com/69606814/190916379-48c4494e-7aed-4a77-b3a5-b1baf99a9f29.png)
+![image](https://user-images.githubusercontent.com/69606814/191030227-76c6d666-4f07-4ff6-95d4-875a2405c7dc.png)
 ![image](https://user-images.githubusercontent.com/69606814/190917152-de836a28-5d10-4460-903d-e3e20b6ee7fb.png)
 
 
